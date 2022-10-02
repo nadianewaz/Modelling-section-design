@@ -1,0 +1,61 @@
+/* left section  */
+.wrapper{
+    margin-top: 25%;
+}
+/* paragraph tag  */
+p {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 16px;
+    line-height: 26px;
+    margin-top: 40px;
+}
+/* heading tag  */
+h2 {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+}
+/* button design  */
+a.btn.btn_view {
+    background: #9732a8;
+    color: #fff;
+    padding: 12px 55px;
+    border-radius: 50px;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-top: 30px;
+    transition: all .2s ease;
+}
+a.btn.btn_view:hover {
+    border: 2px solid #9732a8;
+}
+/* right setion  */
+/* image 1  */
+img.img1 {
+    height: 70vh;
+    width: 65%;
+    margin-top: 10px;
+    margin-left: 85px;
+    box-shadow: 7px 5px 23px
+    rgba(0, 0,0, 0.5);
+}
+img.img2 {
+    position: absolute;
+    top: 100px;
+    right: 42px;
+    height: 68vh;
+    width: 26%;
+    box-shadow: 7px 5px 23px
+    rgba(0, 0,0, 0.5);
+}
+img.img3 {
+    position: absolute;
+    bottom: 30px;
+    right: 140px;
+    height: 45vh;
+    width: 36%;
+    box-shadow: 7px 5px 23px
+    rgba(0, 0,0, 0.5);
+}
